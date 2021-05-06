@@ -1,5 +1,5 @@
 {
-    "topics": [
-        "SUBHASH CHANDRA", "SHANTI DEVI", "SUSHANT KUMAR","ANKUR SINGH", "NEHA KUMARI"
-    ]
+    "topics": {
+        "names": ["SUBHASH CHANDRA", "SHANTI DEVI", "SUSHANT KUMAR","ANKUR SINGH", "NEHA KUMARI"]
+    }
 }
