@@ -1,0 +1,7 @@
+{
+  "names":[
+    { "first_name":"John", "last_name":"Doe" },
+    { "first_name":"Anna", "last_name":"Smith" },
+    { "first_name":"Peter", "last_name":"Jones" }
+  ]
+}
